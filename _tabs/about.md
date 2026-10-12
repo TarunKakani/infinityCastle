@@ -25,20 +25,14 @@ I started from zero with C and assembly, and I'm working my way toward vulnerabi
 
 ## Projects
 
-**[Troy](https://github.com/TarunKakani)**
+**[Troy](https://github.com/TarunKakani/troy)**
 : A learning-oriented antivirus engine with hash-based detection and a CLI.
 
-**[ghost.c](https://github.com/TarunKakani)**
+**[ghost.c](https://github.com/TarunKakani/ghostNetwork)**
 : A raw-socket tool that impersonates a phantom host on the network.
 
-**[equinox](https://github.com/TarunKakani)**
+**[equinox](https://github.com/TarunKakani/equinox)**
 : A fully offline password manager built in C++ with the ability to move the vault on the go.
-
-**[Post-Quantum Health Vault](https://github.com/TarunKakani)**
-: A health record vault in C++ combining classical and post-quantum crypto (ML-KEM / ML-DSA). *In progress.*
-
-**[Greedy Scrapper](https://github.com/TarunKakani)**
-: A Python web scraping project.
 
 ## Find me
 
