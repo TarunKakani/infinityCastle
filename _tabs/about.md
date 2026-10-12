@@ -31,7 +31,7 @@ I started from zero with C and assembly, and I'm working my way toward vulnerabi
 **[ghost.c](https://github.com/TarunKakani)**
 : A raw-socket tool that impersonates a phantom host on the network.
 
-**[equinox](https://github.com/equinox)**
+**[equinox](https://github.com/TarunKakani)**
 : A fully offline password manager built in C++ with the ability to move the vault on the go.
 
 **[Post-Quantum Health Vault](https://github.com/TarunKakani)**
