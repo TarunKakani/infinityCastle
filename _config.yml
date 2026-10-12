@@ -29,7 +29,7 @@ github:
   username: TarunKakani # change to your GitHub username
 
 twitter:
-  username: your-handle # change to your X (Twitter) username
+  username: watchdog_44 # change to your X (Twitter) username
 
 social:
   # Change to your full name.
@@ -40,10 +40,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/TarunKakani # change to your GitHub homepage
-    - https://x.com/your-handle # change to your X homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/your-handle # change to your LinkedIn page
+    - https://x.com/watchdog_44 # change to your X homepage
+    - https://www.linkedin.com/in/tarun-kakani-224448312 # change to your LinkedIn page
 
 # Site Verification Settings
 webmaster_verifications:

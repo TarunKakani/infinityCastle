@@ -10,7 +10,7 @@ I'm **watchDog**, a final-year computer science student working toward a career 
 
 I started from zero with C and assembly, and I'm working my way toward vulnerability research and kernel / low-level systems security. This site is where I document what I learn, the challenges I solve and the tools I build.
 
-> Currently open to security research internships and roles. *(Placeholder: edit this line.)*
+> Currently open to security research internships and roles.
 {: .prompt-info }
 
 ## Skills
@@ -31,8 +31,8 @@ I started from zero with C and assembly, and I'm working my way toward vulnerabi
 **[ghost.c](https://github.com/TarunKakani)**
 : A raw-socket tool that impersonates a phantom host on the network.
 
-**[Threat Intel Dashboard](https://github.com/TarunKakani)**
-: A threat intelligence dashboard built on a RAG pipeline with Postgres and pgvector. *In progress.*
+**[equinox](https://github.com/equinox)**
+: A fully offline password manager built in C++ with the ability to move the vault on the go.
 
 **[Post-Quantum Health Vault](https://github.com/TarunKakani)**
 : A health record vault in C++ combining classical and post-quantum crypto (ML-KEM / ML-DSA). *In progress.*

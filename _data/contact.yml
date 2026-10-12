@@ -8,11 +8,8 @@
 
 - type: linkedin
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/your-handle" # change to your LinkedIn page
+  url: "https://www.linkedin.com/in/tarun-kakani-224448312" # change to your LinkedIn page
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
